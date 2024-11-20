@@ -23553,7 +23553,7 @@
             "tag": "postpaid",
             "shortcut": [
                 "roamingKey",
-                "chatbot",
+                "chatbotKey",
                 "qrcode"
             ]
         },
@@ -23561,14 +23561,14 @@
             "tag": "prepaid",
             "shortcut": [
                 "identifyMode",
-                "chatbot",
+                "chatbotKey",
                 "qrcode"
             ]
         },
         {
             "tag": "home",
             "shortcut": [
-                "chatbot",
+                "chatbotKey",
                 "assistance"
             ]
         },
